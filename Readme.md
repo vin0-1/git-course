@@ -4,6 +4,4 @@ arquivo da aula
 
 modificado
 
-vino lindo!
-
-vino lindo 2
+vino lindao
